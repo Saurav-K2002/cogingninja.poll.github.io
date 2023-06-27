@@ -3,7 +3,7 @@ A simple Polling System API developed using Node.js, Express.js and Mongodb for 
 
 ## 1. Git Clone
 You have to open you Visual Studio code.
-Open Terminal and Type git clone https://github.com/bhushanverma1998/polling-sys-api.git
+Open Terminal and Type git clone https://github.com/Saurav-K2002/cogingninja.poll.github.io.git
 It will download the files on you system.
 
 ## 2. Include node_modules
